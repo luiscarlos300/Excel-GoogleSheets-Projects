@@ -12,7 +12,7 @@ The purpose of the dashboard is to monitor sales according to their main indicat
 
 ### Dashboard
 
-<a href="https://lh3.googleusercontent.com/drive-viewer/AJc5JmTcVotM77JnW6OJdKL4M0kpa3GRKEHIDDNVWG2ln8fuf4C3IPFA4Teyx-qyJGdmt4p-cnNpsWc=w1366-h629"><img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmTcVotM77JnW6OJdKL4M0kpa3GRKEHIDDNVWG2ln8fuf4C3IPFA4Teyx-qyJGdmt4p-cnNpsWc=w1366-h629" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://raw.githubusercontent.com/luiscarlos300/Excel-GoogleSheets-Projects/f3add6b23dc603e24f352974bb77408195791cdf/Image/Sales%20Perfomance.png"><img src="https://raw.githubusercontent.com/luiscarlos300/Excel-GoogleSheets-Projects/f3add6b23dc603e24f352974bb77408195791cdf/Image/Sales%20Perfomance.png" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 ##
 
@@ -30,4 +30,4 @@ O objetivo do dashboard é monitorar as vendas de acordo com seus principais ind
 
 ### Dashboard
 
-<a href="https://lh3.googleusercontent.com/drive-viewer/AJc5JmTcVotM77JnW6OJdKL4M0kpa3GRKEHIDDNVWG2ln8fuf4C3IPFA4Teyx-qyJGdmt4p-cnNpsWc=w1366-h629"><img src="https://lh3.googleusercontent.com/drive-viewer/AJc5JmTcVotM77JnW6OJdKL4M0kpa3GRKEHIDDNVWG2ln8fuf4C3IPFA4Teyx-qyJGdmt4p-cnNpsWc=w1366-h629" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://raw.githubusercontent.com/luiscarlos300/Excel-GoogleSheets-Projects/f3add6b23dc603e24f352974bb77408195791cdf/Image/Sales%20Perfomance.png"><img src="https://raw.githubusercontent.com/luiscarlos300/Excel-GoogleSheets-Projects/f3add6b23dc603e24f352974bb77408195791cdf/Image/Sales%20Perfomance.png" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
