@@ -1,11 +1,16 @@
-# Objectives
-In this project section I want to show my knowledge developing several practical cases including some important subjects:
-- Metrics;
-- Key Performance Indicators (KPIs);
-- Functions;
-- Pivor tables;
-- Ad-hoc analysis;
-- Data Analysis;
-- Data visualization;
-- Macros;
-- Data manipulation (Data Extraction, Exploratory Data Analysis (EDA), Data Cleansing and Data Transformation for Data Analysis).
+# Introduction
+This section showcases my expertise in Excel through a series of practical case studies covering essential topics, including:
+
+    - Metrics and Key Performance Indicators (KPIs)
+    - Functions and formulas
+    - Pivot tables
+    - Ad-hoc analysis
+    - Data analysis and visualization
+    - Macros and automation
+    - Data manipulation, including:
+        - Data extraction
+        - Exploratory Data Analysis (EDA)
+        - Data cleansing
+        - Data transformation for analytical purposes
+
+These cases demonstrate how Excel can be leveraged for data-driven decision-making and business insights.
