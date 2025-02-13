@@ -1,2 +1,2 @@
-# Objective
-In this repository you can find dashboards approaching diferent business cases in order to create actionable insights and therefore, supporting the decision making process.
+# Introduction
+This repository showcases a collection of dashboards designed to analyze different business scenarios, transforming data into actionable insights. By leveraging these visualizations, stakeholders can make informed decisions, optimize strategies, and drive business growth.
