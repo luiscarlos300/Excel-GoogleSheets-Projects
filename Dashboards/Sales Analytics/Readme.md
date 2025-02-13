@@ -12,7 +12,7 @@ The purpose of the dashboard is to monitor sales according to their main indicat
 
 ### Dashboard  
 
-![Dashboard](image/salesanalytics.png)
+![Dashboard](Excel-GoogleSheets-Projects/Image/salesanalytics.png)
 
 ##  
 
@@ -30,4 +30,4 @@ O objetivo do dashboard é monitorar as vendas de acordo com seus principais ind
 
 ### Dashboard  
 
-![Dashboard](image/salesanalytics.png) 
+![Dashboard](Excel-GoogleSheets-Projects/Image/salesanalytics.png) 
