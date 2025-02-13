@@ -12,7 +12,7 @@ The purpose of the dashboard is to monitor sales according to their main indicat
 
 ### Dashboard
 
-<a href="[https://drive.google.com/file/d/1KuFV5bjwDhuIll13dTq1f8gQfeptjw07/view?usp=drive_link](https://drive.google.com/drive-viewer/AKGpihaojn9WDPLS0lAd7Ae51VhhhomyliYG2DkgWdGQHlSm5-BB0SKXSa6MM98hM-j3zz5hFr7HRgLU7MKg-x5BOFs50PpoLrS6zs0=w1920-h919-rw-v1)"><img src="https://drive.google.com/drive-viewer/AKGpihaojn9WDPLS0lAd7Ae51VhhhomyliYG2DkgWdGQHlSm5-BB0SKXSa6MM98hM-j3zz5hFr7HRgLU7MKg-x5BOFs50PpoLrS6zs0=w1920-h919-rw-v1" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
+<a href="https://drive.google.com/drive-viewer/AKGpihaojn9WDPLS0lAd7Ae51VhhhomyliYG2DkgWdGQHlSm5-BB0SKXSa6MM98hM-j3zz5hFr7HRgLU7MKg-x5BOFs50PpoLrS6zs0=w1920-h919-rw-v1"><img src="https://drive.google.com/drive-viewer/AKGpihaojn9WDPLS0lAd7Ae51VhhhomyliYG2DkgWdGQHlSm5-BB0SKXSa6MM98hM-j3zz5hFr7HRgLU7MKg-x5BOFs50PpoLrS6zs0=w1920-h919-rw-v1" style="width: 1000px; max-width: 100%; height: auto" title="Click to enlarge picture" />
 
 ##
 
